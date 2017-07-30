@@ -1,7 +1,7 @@
 # H_Decomposition
-Planar Homography Matrix Decomposition Using Polar Decomposition. This is a MATLAB MEX implementaion.
+Homography Matrix Decomposition Using Polar Decomposition. This is a MATLAB MEX implementaion.
 
-An 3x3 homography matrix M can be meaningful primitive components, as
+A homography matrix M can be meaningful primitive components, as
 
 M = PTRNS,
 
