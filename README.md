@@ -5,7 +5,7 @@ A 2D homography matrix M can be meaningful primitive components, as
 
 H = RSN = R(UKU')N
 
-where T is a translation matrix, R is a rotation matrix, N is ±I, and S is a symmetric positive definite stretch matrix. The stretch matrix can optionally be factored, though not uniquely, as UKU', where U is a rotation matrix and K is diagonal and positive. N can be multiplied into S if desired.
+where R is a rotation matrix, N is ±I, and S is a symmetric positive definite stretch matrix. The stretch matrix can optionally be factored, though not uniquely, as UKU', where U is a rotation matrix and K is diagonal and positive. N can be multiplied into S if desired.
 
 Copyright 2017 Han Gong, Unviersity of East Anglia <gong@fedoraproject.org>
 
