@@ -12,6 +12,10 @@ Copyright 2017 Han Gong, Unviersity of East Anglia <gong@fedoraproject.org>
 Reference:
 Shoemake, Ken, and Tom Duff. "Matrix animation and polar decomposition." In Proceedings of the conference on Graphics interface, vol. 92, pp. 258-264. 1992.
 
+# Compilation
+
+$ make
+
 # Usage
 
 [r,u,k,n] = TransformDecompose(H);
