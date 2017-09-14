@@ -21,4 +21,4 @@ $ make
 [r,u,k,n] = TransformDecompose(H);
 
 Note that the rotation r and u are returend in [quaternion parameter form](https://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation). Use quat2rotm to convert a quaternion to a rotation matrix. k is the diagnal elements of the diagnal matrix K. n is a sign paramter (-1 or 1).
-Please also see "demo.m" for the usage of 2D homographical change interpolation.
+Please also see "Demo.m" for the usage of 2D homographical change interpolation.
